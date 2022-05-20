@@ -1,0 +1,39 @@
+HTTrack3.49-2 launched on Wed, 11 May 2022 06:38:24 at https://basamicar.wixsite.com/transport +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(httrack -O /storage/emulated/0/Alarms/bsame -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://basamicar.wixsite.com/transport +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+06:39:00	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/decodeURIComponent(e (from https://basamicar.wixsite.com/transport)
+06:39:00	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/sitemap.xml (from https://basamicar.wixsite.com/transport)
+06:39:00	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/feed.xml (from https://basamicar.wixsite.com/transport)
+06:39:00	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/ (from https://basamicar.wixsite.com/transport)
+06:39:00	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/version/ (from https://basamicar.wixsite.com/transport)
+06:39:00	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/da6c52cb.min.css (from https://basamicar.wixsite.com/transport)
+06:39:00	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/5b26625f.min.css (from https://basamicar.wixsite.com/transport)
+06:39:00	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/fbce49db.min.css (from https://basamicar.wixsite.com/transport)
+06:39:00	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/8c18f46b.chunk.min.js (from https://basamicar.wixsite.com/transport)
+06:39:00	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/rb_wixui.thunderbolt~bootstrap-classic.29c100d1.chunk.min.js (from https://basamicar.wixsite.com/transport)
+06:39:00	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/rb_wixui.thunderbolt~bootstrap.5641211f.chunk.min.css (from https://basamicar.wixsite.com/transport)
+06:39:00	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/rb_wixui.thunderbolt~bootstrap.8c18f46b.chunk.min.js (from https://basamicar.wixsite.com/transport)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/decodeURIComponent(e (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/robots.txt (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/feed.xml (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/version/ (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/16e44c05.min.css (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/da6c52cb.min.css (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/5b26625f.min.css (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/fbce49db.min.css (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/1f15f937.min.css (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/3acc863e.min.css (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/8c18f46b.chunk.min.js (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/rb_wixui.thunderbolt~bootstrap-classic.29c100d1.chunk.min.js (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/rb_wixui.thunderbolt~common-site-members-dialogs.e6a271c3.chunk.min.css (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/rb_wixui.thunderbolt~common-site-members-dialogs.7a02bfac.chunk.min.js (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/rb_wixui.thunderbolt~bootstrap.5641211f.chunk.min.css (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+06:39:19	Error: 	"Not Found" (404) at link https://basamicar.wixsite.com/transport/rb_wixui.thunderbolt~bootstrap.8c18f46b.chunk.min.js (from https://basamicar.wixsite.com/transport/تسجيل-طلب)
+
+HTTrack Website Copier/3.49-2 mirror complete in 55 seconds : 50 links scanned, 21 files written (1658375 bytes overall) [625358 bytes received at 11370 bytes/sec], 1639969 bytes transferred using HTTP compression in 41 files, ratio 29%, 3.3 requests per connection
+(28 errors, 0 warnings, 0 messages)
